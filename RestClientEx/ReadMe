@@ -1,0 +1,10 @@
+Aumsairam
+
+Why default constructor is explicitly added?
+
+MessageBodyWriter not found when tried with APPLICATION_JSON
+
+MessageBodyReader and MessageBodyWriter are interfaces that do this conversion.
+If you don't have libraries then we see the above error message thrown up.
+
+
