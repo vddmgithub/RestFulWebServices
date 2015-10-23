@@ -1,0 +1,4 @@
+Aumsairam
+
+@XmlRootElement //JAXB does the conversion. This uses inbuilt Java JAXB API.
+This annotation helps in converting the Message Object to XML format.
